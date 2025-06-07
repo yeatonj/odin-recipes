@@ -1,0 +1,31 @@
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: #EAEFEF;
+    color: #333446;
+}
+
+.recipes {
+    margin: 16px 100px;
+}
+
+.recipe-list {
+    font-size: 20px;
+}
+
+.recipe-page {
+    margin: 16px 100px;
+    width: 600px;
+}
+
+.cite {
+    margin-top: -10px;
+    font-size: 12px;
+}
+
+.recipe-photo {
+    margin: 16px 50px;
+}
+
+h2 {
+    margin-bottom: -10px;
+}
